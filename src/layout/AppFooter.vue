@@ -10,7 +10,7 @@
             <a href="http://yanikhauschild.de/" target="_blank">Yanik Hauschild</a><br />
             <a href="http://christianlindermann.de/" target="_blank">Christian Lindermann</a><br /><br />
             <strong>Website</strong><br />
-            <a href="http://jonaspelzer.com" target="_blank">Jonas Pelzer</a><br /><br />
+            <a href="https://shady-tawfik.de" target="_blank">Shady Tawfik</a><br /><br />
             <strong>Schrift</strong><br /> Blow von <a href="http://yanikhauschild.de" target="_blank">Yanik
                 Hauschild</a><br /> Format Grotesk von <a href="http://dominikbissem.tumblr.com/"
                 target="_blank">Dominik Bissem</a>

@@ -1,7 +1,7 @@
 import Vue from "vue";
 import App from "./App.vue";
 import router from "./router";
-import MondernAmusementKit from "./plugins/MondernAmusementKit"; // etc 
+import MondernAmusementKit from "./plugins/MondernAmusementKit"; 
 import './registerServiceWorker'
 
 Vue.config.productionTip = false;
